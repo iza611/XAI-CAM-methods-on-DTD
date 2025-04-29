@@ -1,0 +1,10 @@
+index2class = {0: 'bubbly',
+               1: 'crosshatched',
+               2: 'fibrous',
+               3: 'honeycombed',
+               4: 'knitted',
+               5: 'lined',
+               6: 'polka-dotted',
+               7: 'veined',
+               8: 'waffled',
+               9: 'zigzagged'}
