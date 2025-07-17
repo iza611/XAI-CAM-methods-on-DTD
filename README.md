@@ -1,4 +1,5 @@
 Comparing class activation mapping (CAM) methods with the Describable Textures Dataset (DTD). From the [report.pdf](report.pdf):
+|Intermediate Layer|Last Layer|
 |-------|-------------|
 | ![Logo](readme_imgs/Fig1.png) | ![Icon](readme_imgs/Fig2.png) |
 
