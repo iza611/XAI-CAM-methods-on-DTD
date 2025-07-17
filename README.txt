@@ -1,5 +1,5 @@
-![Logo](Fig. 1.png)
-![Icon](Fig. 2.png)
+![Logo](Fig1.png)
+![Icon](Fig2.png)
 
 This code consists of three stages:
 
