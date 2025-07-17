@@ -1,5 +1,5 @@
-![Logo](Fig1.png)
-![Icon](Fig2.png)
+![Logo](readme_imgs/Fig1.png)
+![Icon](readme_imgs/Fig2.png)
 
 This code consists of three stages:
 
