@@ -1,3 +1,6 @@
+![Logo](Fig. 1.png)
+![Icon](Fig. 2.png)
+
 This code consists of three stages:
 
 1. Transfer learning to adapt a pretrained ResNet50 model to the Describable Textures Dataset (DTD).
